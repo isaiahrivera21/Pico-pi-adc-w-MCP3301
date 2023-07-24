@@ -1,0 +1,5 @@
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/CMakeFiles/edit_cache.dir
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir

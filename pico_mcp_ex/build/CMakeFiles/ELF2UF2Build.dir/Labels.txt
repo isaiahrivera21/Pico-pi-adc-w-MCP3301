@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/CMakeFiles/ELF2UF2Build
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/CMakeFiles/ELF2UF2Build.rule
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

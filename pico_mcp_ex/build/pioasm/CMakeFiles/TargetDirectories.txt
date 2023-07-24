@@ -1,0 +1,3 @@
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/pioasm/CMakeFiles/pioasm.dir
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/pioasm/CMakeFiles/edit_cache.dir
+/home/isaiahrivera/Work/Bird_Lab/Pressure_Rig_Software/pico_mcp_ex/build/pioasm/CMakeFiles/rebuild_cache.dir
